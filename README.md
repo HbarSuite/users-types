@@ -19,7 +19,7 @@ npm install @hsuite/users-types
 - @nestjs/core: ^10.4.2
 
 ### Dependencies
-- @hsuite/nestjs-swagger: 2.0.0
+- @hsuite/nestjs-swagger: 1.0.3
 - @hsuite/auth-types: 2.0.0
 
 ### Development Dependencies
